@@ -1,7 +1,7 @@
 
 <html>
 <body style="background-color: lightgrey;">
-  <h1><u></u>Customer Testimonials</u> </h1>
+  <h1><u>Customer Testimonials</u></h1>
   This page is dedicated to our clients. We want to hear your feedback and reviews! Here are a few of our favorite customer stories that we have had over the years, and why our products are top-of-the-line. If you would like to leave us a review or provide feedback, please use our contacts listed at the end of the page!
 <body>
   <head>
