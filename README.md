@@ -43,15 +43,11 @@ Sanjay Mehrotra is the CEO for Micron Technologies. Using Tekton pruducts they h
   </ul>
   <br>
 <h2> What most of our customers do for a living</h2>
-<br>
-1.  Most of our clients are typically large construction firms. They make up roughly 55% of our consumer base.
-<br>
-<br>
-2.  We then sell mainly to freelance independent contractors which make up 35% of our client base.
-<br>
-<br>
-3.  Then we also have  a smaller line of products that households and independent consumers typically carry. This is roughly 10%of our client base.
-<br>
+<ol>
+  <li>  Most of our clients are typically large construction firms. They make up roughly 55% of our consumer base.</li>
+  <li>We then sell mainly to freelance independent contractors which make up 35% of our client base.</li>
+  <li>Then we also have  a smaller line of products that households and independent consumers typically carry. This is roughly 10%of our client base.</li>
+</ol>
 <br>
 <b>So not matter what you are doing for your job, hobby, or any activity Tekton products can always do the job!</b>
 <br>
