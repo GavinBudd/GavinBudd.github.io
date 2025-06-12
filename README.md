@@ -1,9 +1,9 @@
 
 <html>
-<body style="background-color: orange;">
+<body style="background-color: lightgrey;">
   <h1>Customer Testimonials</u> </h1></head>
 
-  This page is dedicated to our clients. We want to hear your feedback and reviews! Here are a few of our favorite reviews that we have had over the year, and why our products are top-of-the-line!
+  This page is dedicated to our clients. We want to hear your feedback and reviews! Here are a few of our favorite customer stories that we have had over the years, and why our products are top-of-the-line!
 <body>
   <head>
     <h1>What Our Customers Are Saying</h1>
@@ -18,12 +18,13 @@
 <br>
   "My favorite product of Tekton's is their box cutter. I get a lot of boxes sent to me from family and friends, and their box cutter has always been super efficient and sharp. State of the art product from Tekton! <i>Via Twitter </i>
 <br>
-<img src=https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-10/GettyImages-2179737359%20%281%29.jpg?h width ="250 height="200"
+<img src="https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-10/GettyImages-2179737359%20%281%29.jpg?h=920929c4&itok=tHXTTZaS" alt="Scottie Barnes">
+
 <b> Scottie Barnes</b>
 <br>
   "Great service and support from Tekton! I will certainly be buying from these guys again!" <i> Via Instagram</i>
 <br>
-<h2> Leave us a Review! </h2>
+
 </body>
 </html>
 
