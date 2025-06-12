@@ -8,7 +8,7 @@
     <h2>What Our Customers Are Saying</h2>
   </head>
 <img src="https://wallpapers.com/images/hd/construction-worker-wearing-a-checkerd-longsleeve-nh2vm5vegzjuhn40.jpg" alt="Construction Worker" width="250" height="200">
-
+<br>
 <b> Jared Allen <i> Father</i> </b>
 <br>
   " Being able to use the equipment has rapidly sped up my efficiency. These are some of the best products and services in the industry. I would recommend for everyone to own one of these!"<i> Via Snapchat</i>
@@ -34,14 +34,14 @@ Chad, an independent contractor has been able to double the size of his business
   "Great service and support from Tekton! I will certainly be buying from these guys again!" <i> Via Instagram</i>
 <br>
 Sanjay Mehrotra is the CEO for Micron Technologies. Using Tekton pruducts they have just announced their decision to build a $200 Billion dollar plant in Boise, Idaho. If you would like to learn more about Micron's new plant being built by Tekton products,<a href="https://www.micron.com/us-expansion/idaho" target="_blank"> click here </a> to learn about Micron's Idaho expansion.
-<h2> Companies We've Worked With</h2>
-- Micron Technolgies
-<br>
--Nvidia 
-<br>
--Tesla
-<br>
--Microsoft
+<h2> Notable Companies We've Worked With</h2>
+  <ul>
+<li>Micron Technologies</li>
+ <li>Nvidia</li>  
+<li>Tesla</li>
+<li>Microsoft</li>
+  </ul>
+  <br>
 <h2> What most of our customers do for a living</h2>
 <br>
 1.  Most of our clients are typically large construction firms. They make up roughly 55% of our consumer base.
