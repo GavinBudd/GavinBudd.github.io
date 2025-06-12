@@ -9,18 +9,27 @@
   </head>
 <img src="https://wallpapers.com/images/hd/construction-worker-wearing-a-checkerd-longsleeve-nh2vm5vegzjuhn40.jpg" alt="Construction Worker" width="250" height="200">
 
-<b> Jared Allen </b>
+<b> Jared Allen <i> Father</i> </b>
 <br>
   " Being able to use the equipment has rapidly sped up my efficiency. These are some of the best products and services in the industry. I would recommend for everyone to own one of these!"<i> Via Snapchat</i>
 <br>
+<br>
+Jared is a loving father of 2 boys. Jared in his free time had decided to build a playground in the backyard for his kids. Jared was in search of tools that could complete the playground both quickly and with quality. Today, Jared's boys use the playground all the time. Jared states, "This playground will always be a keen memory for my kids as they grow older."
+<br>
+<br>
 <img src="https://everbluetraining.com/sites/default/files/construction-man.jpg" alt="Construction Man" width="250" height="200">
 <br>
-  <b>Paul Adams</b>
+  <b>Chad Beebe <i> Independent Contractor</i></b>
 <br>
-  "My favorite product of Tekton's is their box cutter. I get a lot of boxes sent to me from family and friends, and their box cutter has always been super efficient and sharp. State of the art product from Tekton! <i>Via Twitter </i>
-<br><img src="https://thetechrevolutionist.com/wp-content/uploads/2021/05/Micron-President-_-CEO-Sanjay-Mehrotra-to-speak-at-2021-COMPUTEX-Forum-770x770.jpg" alt="Sanjay Mehrotra at COMPUTEX" width="250" height="200">
 <br>
-<b>Sanjay Mehrotra </b>
+  "No tools have helped in such a way than Tekton. They have made my life so much easier and has been a true blessing to me and my crew! <i>Via Twitter </i>
+<br>
+Chad, an independent contractor has been able to double the size of his business since swithcing to Tekton products. He used to work alone, but has since been able to develop a crew to work with him. Chad was one of our first clients, and we will continue to support Chad and his business for life!
+<br>
+<br>
+<img src="https://thetechrevolutionist.com/wp-content/uploads/2021/05/Micron-President-_-CEO-Sanjay-Mehrotra-to-speak-at-2021-COMPUTEX-Forum-770x770.jpg" alt="Sanjay Mehrotra at COMPUTEX" width="250" height="200">
+<br>
+<b>Sanjay Mehrotra <i>CEO</i></b>
 <br>
   "Great service and support from Tekton! I will certainly be buying from these guys again!" <i> Via Instagram</i>
 <br>
@@ -35,14 +44,21 @@ Sanjay Mehrotra is the CEO for Micron Technologies. Using Tekton pruducts they h
 -Microsoft
 <h2> What most of our customers do for a living</h2>
 <br>
-<br>
-1.Most of our clients are typically large construction firms. They make up roughly 55% of our consumer base.
-<br>
-<br>
-2.We then sell mainly to freelance independent contractors which make up 35% of our client base.
+1.  Most of our clients are typically large construction firms. They make up roughly 55% of our consumer base.
 <br>
 <br>
-3.Then we also have  a smaller line of products that households and independent consumers typically carry. This is roughly 10%of our client base.
+2.  We then sell mainly to freelance independent contractors which make up 35% of our client base.
 <br>
 <br>
-So not matter what you are doing for your job, hobby, or any activity Tekton products can always do the job!
+3.  Then we also have  a smaller line of products that households and independent consumers typically carry. This is roughly 10%of our client base.
+<br>
+<br>
+<b>So not matter what you are doing for your job, hobby, or any activity Tekton products can always do the job!</b>
+<br>
+<h2> Contact Us!</h2>
+Email: gbudd@purdue.edu
+<br>
+Phone: 245-123-1234
+<br>
+<br>
+If you would like to leave us a review or provide feedback, please use our contacts listed at the end of the page!
