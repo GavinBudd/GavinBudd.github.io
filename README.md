@@ -2,7 +2,7 @@
 <html>
 <body style="background-color: lightgrey;">
   <h1><u></u>Customer Testimonials</u> </h1>
-  This page is dedicated to our clients. We want to hear your feedback and reviews! Here are a few of our favorite customer stories that we have had over the years, and why our products are top-of-the-line!
+  This page is dedicated to our clients. We want to hear your feedback and reviews! Here are a few of our favorite customer stories that we have had over the years, and why our products are top-of-the-line. If you would like to leave us a review or provide feedback, please use our contacts listed at the end of the page!
 <body>
   <head>
     <h2>What Our Customers Are Saying</h2>
@@ -56,9 +56,9 @@ Sanjay Mehrotra is the CEO for Micron Technologies. Using Tekton pruducts they h
 <b>So not matter what you are doing for your job, hobby, or any activity Tekton products can always do the job!</b>
 <br>
 <h2> Contact Us!</h2>
-Email: gbudd@purdue.edu
+Email: <a href="mailto:yourname@example.com"> gbudd@purdue.edu</a>
 <br>
 Phone: 245-123-1234
 <br>
 <br>
-If you would like to leave us a review or provide feedback, please use our contacts listed at the end of the page!
+
