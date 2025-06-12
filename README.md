@@ -25,7 +25,7 @@
 <br>
   "Great service and support from Tekton! I will certainly be buying from these guys again!" <i> Via Instagram</i>
 <br>
-
+Sanjay Mehrotra is the CEO for Micron Technologies. Using Tekton pruducts they have just announced their decision to build a $200 Billion dollar plant in Boise, Idaho. If you would like to learn more about Micron's new plant being built by Tekton products, click here!
 </body>
 </html>
 
